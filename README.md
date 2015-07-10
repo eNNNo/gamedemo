@@ -1,1 +1,1 @@
-# gamedemo branching test
+# cocos2d-x gamedemo
